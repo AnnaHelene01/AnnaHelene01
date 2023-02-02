@@ -1,4 +1,4 @@
-### 👋 Hi, I´m @AnnaHelene01
+### 👋 Hi, I´m Anna!
 
 - 🔭 I´m currently studying Frontend Development at Noroff University!
 - 😄 See my work at [annahelene.no](https://www.annahelene.no/)
