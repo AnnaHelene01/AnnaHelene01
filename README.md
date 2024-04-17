@@ -1,8 +1,7 @@
 ## 👋 Hi, I´m Anna!
 
-- 🔭 I have just finished my study with Frontend Development at Noroff University!
-- 😄 See my work at [annahelene.no](https://www.annahelene.no/)
-- 🌱 I’m currently learning React
+- 🔭 I have just started working at Tietoevry as a Techical Developer Consultant!
+- 🌱 I’m currently learning C# and .NET
 - 😄 Contact me at annahelene2001@gmail.com
 
 ## Skills
