@@ -1,7 +1,7 @@
 ## 👋 Hi, I´m Anna!
 
-- 🔭 I have just started working at Tietoevry as a Technical Developer Consultant!
-- 🌱 I’m currently learning C# and .NET
+- 🔭 I am a Solution Consultant in Tietoevry!
+- 🌱 I’m currently learning C#!
 - 😄 Contact me at annahelene2001@gmail.com
 
 ## Skills
